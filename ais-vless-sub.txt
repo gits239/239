@@ -1,0 +1,2 @@
+vless://d1293b3f-f382-49e1-ab0a-9418f027e7d2@116.204.181.209:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS64k-TCP-ฮูหี.*🤪
+vless://dbc67590-4df1-4571-9ab6-eb06284b786d@45.91.135.190:80?security=none&encryption=none&host=cdn.speedtest.net&type=ws#AIS64k-WS-ฮูหี.*🤪
