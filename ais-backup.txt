@@ -1,0 +1,1 @@
+vless://ac3b2493-2214-4b09-bd7e-9c33318080ea@v6.ohm1.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais6-ais
