@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/gist239/ais-auto-config/main/ais-main.txt
-https://raw.githubusercontent.com/gist239/ais-auto-config/main/ais-backup.txt
+https://raw.githubusercontent.com/gits.239/ais-auto-config/main/ais-main.txt
+https://raw.githubusercontent.com/gits.239/ais-auto-config/main/ais-backup.txt
