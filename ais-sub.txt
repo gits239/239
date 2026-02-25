@@ -1,5 +1,0 @@
-vless://d1293b3f-f382-49e1-ab0a-9418f027e7d2@116.204.181.209:8080?security=none&encryption=none&type=tcp&headerType=http&host=www.speedtest.net#AIS-64kbps-Normal
-
-vless://d1293b3f-f382-49e1-ab0a-9418f027e7d2@116.204.181.209:8080?security=none&encryption=none&type=tcp&headerType=http&host=www.speedtest.net&path=/speedtest#AIS-128kbps-Night
-
-vless://d1293b3f-f382-49e1-ab0a-9418f027e7d2@116.204.181.209:8080?security=none&encryption=none&type=tcp&headerType=http&host=www.speedtest.net&path=/download#AIS-Emergency-Fast
