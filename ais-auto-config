@@ -1,1 +1,5 @@
 vless://ff2b2de3-1542-4ec0-bc10-d28d0fb391f5@nb-s1.unlock-netfree.click:443?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#VPS-AIS
+
+vless://ac3b2493-2214-4b09-bd7e-9c33318080ea@v6.ohm1.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais6-ais
+
+vless://5c73d60c-9d32-4b3b-aaf8-f8c5ad413f29@103.169.67.58:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais2
